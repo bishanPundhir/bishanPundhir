@@ -18,7 +18,7 @@ a {
 }
 .bg-img {
   /* The image used */
-  background-image: url("img_nature.jpg");
+  background-image: url("nature.jpeg");
 
   min-height: 380px;
 
