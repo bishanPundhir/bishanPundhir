@@ -1,2 +1,8 @@
-# bishanPundhir.github.io
-# Main Motive of this project is to learn more about GitHub and Sublime 
+# bishanPundhir (Software Developer)
+### Hobbies
+. .net Core
+. Programming
+. React
+. D3.js
+. WPF
+. Winform
