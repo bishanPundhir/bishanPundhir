@@ -1,4 +1,4 @@
-<img src="https://secure.gravatar.com/avatar/0ce77779a5cba274d41abf0280d3e13b?s=200&d=identicon&r=g"/>
+<img src="https://avatars.githubusercontent.com/u/24931942?s=400&u=a49291031a610eb2679b2f2cfb7112c0abf198c4&v=4"/>
  
 ### Hi there 👋, I'm Bishan Pundhir. I'm a software developer. Welcome to my gh page! <br>
  
